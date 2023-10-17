@@ -12,3 +12,9 @@ We do hope that the content prepared here will be beneficial for those who do no
 We feel that this project fills a real gap since finding content on the Internet about cybersecurity issues for workers in this situation is challenging. Therefore, we encourage our dear readers to take an active part in this project and share their experiences so that the content of the platform is as up-to-date and helpful as possible for those who are just starting this type of activity, suffer from a lack of information and the information you can read here can provide solutions to their everyday problems.
 
 ![](https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600)
+
+This project contains the following articles:
+1. [Risks of using online applications](https://github.com/attilacsontos/Test_3236_01/blob/main/Risks%20of%20using%20online%20applications.md)
+
+
+
