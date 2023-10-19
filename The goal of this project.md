@@ -16,5 +16,5 @@ We feel that this project fills a real gap since finding content on the Internet
 This project contains the following articles:
 1. [Risks of using online applications](https://github.com/attilacsontos/Test_3236_01/blob/main/Risks%20of%20using%20online%20applications.md)
 
-2. [Cybersecurity and Freelancing](https://github.com/attilacsontos/Test_3236_01/blob/main/Cybersecurity%20and%20Freelancing.md)
+2. [Cybersecurity and Freelancing](./Cybersecurity%20and%20Freelancing.md)
 
