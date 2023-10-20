@@ -18,3 +18,10 @@ This project contains the following articles:
 
 2. [Cybersecurity and Freelancing](./Cybersecurity%20and%20Freelancing.md)
 
+1. [Risks of using online applications](https://attilacsontos.github.io/Test_3236_01/Risks%20of%20using%20online%20applications.md)
+
+2. [Cybersecurity and Freelancing](https://attilacsontos.github.io./Test_3236_01/Cybersecurity%20and%20Freelancing.md)
+
+3. [How to install and configure email encryption in Thunderbird?](https://attilacsontos.github.io./Test_3236_01/How%20to%20install%20Thunderbird.md)
+
+4. [How to set up an IMAP e-mail account in Thunderbird?](https://attilacsontos.github.io./Test_3236_01/How%20to%20set%20up%20an%20IMAP%20e-mail%20in%20Thunderbird.md)
