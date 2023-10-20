@@ -17,6 +17,6 @@ We feel that this project fills a real gap since finding content on the Internet
 ![](https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600)
 
 This project contains the following articles:
-1. [Risks of using online applications](https://github.com/attilacsontos/Test_3236_01/blob/main/Risks%20of%20using%20online%20applications.md)
+1. [Risks of using online applications](https://attilacsontos.github.io/Test_3236_01/Risks of using online applications)
 
-2. [Cybersecurity and Freelancing](./Cybersecurity%20and%20Freelancing)
+2. [Cybersecurity and Freelancing](https://attilacsontos.github.io/Test_3236_01/Cybersecurity and Freelancing)
