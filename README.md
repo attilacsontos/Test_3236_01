@@ -1,9 +1,17 @@
 # Test_3236_01
 Create a GitHub Pages site - for freelancers
 
-# The aim of the project
+# The purpose of this project
 
-## This project aims to build a community-centred environment for remote workers, an environment that is primarily about cybersecurity-related topics.
+## The project aims to build a community-centred documentation for remote workers, freelancers or SOHOs, in order to help them securely and safely operate online.
+
+Individual and SOHO workers are exposed as anyone to online risks. But they often lack the resources to afford both security solutions and services that are available for more resourced entities.
+
+
+You will find here practical guides that should help you to operate specific solutions in a way that reduces the cyber risks you are exposed to.
+
+
+
 
 We are sending our message to self-employed people who are just learning about remote work and who, in addition to the advantages of remote work, feel and know that acquiring and developing knowledge about cyber security is essential for a successful business life, whatever the company's profile is.
 
