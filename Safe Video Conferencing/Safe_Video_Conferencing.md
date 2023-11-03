@@ -9,16 +9,24 @@ A poorly chosen or incorrectly used video conference application can lead to dat
 Therefore, a secure video conferencing platform is essential to retain customers and keep your business running smoothly. Cyber attacks are becoming more frequent with the shift to remote work and online communication solutions.
 
 ## 1.	What is video conferencing?
+
 “[Video conferencing](https://livestorm.co/resources/guides/what-is-video-conferencing) is a live video-based meeting between two or more people. It uses the Internet to facilitate live, face-to-face interactions and collaboration through audio, video, screen sharing, and chat.”
 
-## 2.	What are the risks of videoconferencing? [TBD]
-Some video conferences may contain confidential or sensitive information, as business conversations are taking place at the conferences, where customer data, information related to new developments, financial statements and similarly confidential information may also be disclosed.
+## 2.	What are the risks of videoconferencing?
 
-So, someone may have a financial motivation to join the meeting, spy on it or record the meeting and use the information obtained to blackmail. Some hackers may try to infiltrate a meeting and attach malware to the chat.
+Some video conferences may contain confidential or sensitive information, as business conversations are taking place at the conferences, where customer data, information related to new developments, financial statements and similarly confidential information may also be disclosed. 
+Five  categories of risks can be identified :
+1. Recording of audio segments that contain confidential information
+2. Recording of video serments that contain confidential information
+3. Unauthorized capture of confidential documents that were shared during the video conference
+4. Unauthorized capture of video or audio segments for the purpose of misrepresenting the content of the exchange (reputation risk)
+5. Usage of the video-conferencing platform as a way to disseminate malicious content such as malware
 
-Uninvited participants use stolen or hacked accounts to join the meeting. It may happen, e.g., the meeting was accidentally set to “public”, and the invitation was sent this way: thus, anyone with a link can join. But it is also possible that a swindler hacks the victim’s device and establishes a connection to a video conference room through it.
+Practically speaking, this means for example that someone may have a motivation to join the meeting, spy on it or record the meeting and use the information obtained to blackmail. Or some malefactors may try to infiltrate a meeting and attach malware to the chat.
+Uninvited participants could use stolen or hacked accounts to join the meeting. It may happen, e.g., the meeting access setting was accidentally set to “public”, and the invitation was sent this way: thus, anyone with a link can join. But it is also possible that a swindler hacks the victim’s device and establishes a connection to a video conference room through it.
 
 ## 3.	What are the features that make your video conferencing device more secure?
+
 There are many video conferencing tools on the market, but which one should you choose and which features should you pay attention to so that their use is enjoyable and safe?
 
 Built-in features to make your video conference more secure are as follows:
