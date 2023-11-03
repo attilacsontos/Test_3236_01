@@ -11,7 +11,7 @@ Therefore, a secure video conferencing platform is essential to retain customers
 ## 1.	What is video conferencing?
 “[Video conferencing](https://livestorm.co/resources/guides/what-is-video-conferencing) is a live video-based meeting between two or more people. It uses the Internet to facilitate live, face-to-face interactions and collaboration through audio, video, screen sharing, and chat.”
 
-## 2.	Why would anyone want to eavesdrop on the meeting?
+## 2.	What are the risks of videoconferencing? [TBD]
 Some video conferences may contain confidential or sensitive information, as business conversations are taking place at the conferences, where customer data, information related to new developments, financial statements and similarly confidential information may also be disclosed.
 
 So, someone may have a financial motivation to join the meeting, spy on it or record the meeting and use the information obtained to blackmail. Some hackers may try to infiltrate a meeting and attach malware to the chat.
