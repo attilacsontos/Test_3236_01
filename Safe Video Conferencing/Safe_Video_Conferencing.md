@@ -25,13 +25,19 @@ Five  categories of risks can be identified :
 Practically speaking, this means for example that someone may have a motivation to join the meeting, spy on it or record the meeting and use the information obtained to blackmail. Or some malefactors may try to infiltrate a meeting and attach malware to the chat.
 Uninvited participants could use stolen or hacked accounts to join the meeting. It may happen, e.g., the meeting access setting was accidentally set to “public”, and the invitation was sent this way: thus, anyone with a link can join. But it is also possible that a swindler hacks the victim’s device and establishes a connection to a video conference room through it.
 
-## 3.	What are the features that make your video conferencing device more secure?
+## 3.	What are the features that make your video conferencing device more secure? [TBD]
 
-There are many video conferencing tools on the market, but which one should you choose and which features should you pay attention to so that their use is enjoyable and safe?
+There are X categories of security controls or application features that help to make a video conference more secure:
+1. Access controls
+2. Segmentation of channels
+3. Participants control
 
-Built-in features to make your video conference more secure are as follows:
+### 3.1. Access control : account based authentication with Strong Authentication enabled
+
+
 
 ### 3.1.  Require a PIN or Password to join
+
 If the web conference tool has this functionality, then to conduct the online meeting more securely, you can ask the participants to enter either a password or a PIN code when joining the conference, thereby confirming that only those invited to the discussion will participate. 
 
 Of course, when communicating with meeting participants, it is advisable to share relevant sensitive data, such as passwords, PINs, meeting URLs, etc., in encrypted emails well before the scheduled time of the conference.
@@ -59,7 +65,7 @@ For instance, you may use this function if someone has been fired from a company
 ### 3.6. Muting participants
 The video conference host can mute anyone in the audience, on the one hand, for security reasons. On the other hand, if someone is giving a presentation, the host can eliminate the background noise in this way.
 
-## 4.	What to consider to choose the best video conference solution?
+## 4.	What to consider to choose the best video conference solution? [TBD]
 Today, the problem is not that there is no software that cannot be used to perform some activity, but how to choose the most suitable one from a vast range of applications.
 
 Below is a table showing the top 10 web conferencing apps in 2023 from five sources:
