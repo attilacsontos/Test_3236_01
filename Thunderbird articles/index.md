@@ -1,5 +1,8 @@
-Here are all of our thunderbird articles:
+# Thunderbird practical documentation for the "not too technical" individual or SHO worker
 
+This is a series of articles that was designed from providing extremely practical description of the steps to be followed by those who would like to benefit from Thunderbird, a powerful email client, supported by a strong community.
 
-etc
-etc
+# Map of Contents
+
+- [First Article : Download and install Thunderbird]()
+- [Article 2 : ]
