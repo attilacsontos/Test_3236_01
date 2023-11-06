@@ -3,28 +3,21 @@ Create a GitHub Pages site - for freelancers
 
 # The purpose of this project
 
-## The project aims to build a community-centred documentation for remote workers, freelancers or SOHOs, in order to help them securely and safely operate online.
+## The project aims to build a community-centered documentation for remote workers, freelancers or SOHOs, in order to help them securely and safely operate online.
 
 Individual and SOHO workers are exposed as anyone to online risks. But they often lack the resources to afford both security solutions and services that are available for more resourced entities.
 
+You will find here practical guides that should help you to operate specific solutions that are required for remote work and interactions, in a way that reduces the cyber risks you are exposed to.
 
-You will find here practical guides that should help you to operate specific solutions in a way that reduces the cyber risks you are exposed to.
+Starting and operating a remote activity is in itself demanding as it requires to learn how to operate many new solutions and technologies. As a consequence, there is often an arbitrage made in terms of time and resources invested, and which is not prioritizing security as it's perceived as less urgent. However, cyber-security is essential to ensure the success of a business, whatever the domain in which the company's operating.
 
+Creating the relevant elements of documentation through a platform such as GitHub is meant to open the resource to the community and to make sure it can benefit from the contribution of all interested participants. This will be particularly critical for relevance, accuracy and update purposes.
+Do not hesitate to take an active part in this project and share your experiences and knowledge, so that the content of the platform stays as helpful as possible for those who are just starting this type of activity, suffer from a lack of information and technical skills but are eager to learn and develop.
 
+Regading the tools or solutions that will be documented, the primary choice will be on well known open source applications, as they have proven to be robust, secure, and benefiting from the engagement of a strong community. Beyond ethical considerations, open-source solutions also provide a direct benefit by limiting the direct cost associated with the purchase of temporary proprietary licenses. This is important for individual workers who want to use legal solutions without having their limited financial resources being used on costly licences. 
 
+# Map of Contents
 
-We are sending our message to self-employed people who are just learning about remote work and who, in addition to the advantages of remote work, feel and know that acquiring and developing knowledge about cyber security is essential for a successful business life, whatever the company's profile is.
-
-In addition, they do not just want to consume the content created here; they also want to share their experiences actively and would like to participate in developing and increasing the content created here.
-The cloud-based repository hosting service, GitHub, is an excellent tool to achieve this goal. On this platform, we can openly share and improve the content while increasing the community in terms of number and activity.
-
-We do hope that the content prepared here will be beneficial for those who do not yet have the proper routine of remote work or sole proprietorship and who miss content on the Internet about the cyber security aspects of this kind of work.
-
-We feel that this project fills a real gap since finding content on the Internet about cybersecurity issues for workers in this situation is challenging. Therefore, we encourage our dear readers to take an active part in this project and share their experiences so that the content of the platform is as up-to-date and helpful as possible for those who are just starting this type of activity, suffer from a lack of information and the content here can provide solutions to their everyday problems.
-
-![](https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=600)
-
-This project contains the following articles:
-1. [Risks of using online applications](https://attilacsontos.github.io/Test_3236_01/articles/thunderbird/how_to_install_thunderbird)
+1. An email client wiht strong cryptograhy capabilities : [Thunderbird](https://attilacsontos.github.io/Test_3236_01/articles/thunderbird/how_to_install_thunderbird)
 
 2. [Cybersecurity and Freelancing](https://attilacsontos.github.io/Test_3236_01/cybersecurity_and_freelancing)
