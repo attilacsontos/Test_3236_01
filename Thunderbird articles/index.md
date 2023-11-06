@@ -5,4 +5,4 @@ This is a series of articles that was designed from providing extremely practica
 # Map of Contents
 
 - [First Article : Download and install Thunderbird]()
-- [Article 2 : ]
+- [Article 2 : Setup and IMAP server for Thunderbird](Setup_imap_email_thunderbird)
