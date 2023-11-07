@@ -1,1 +1,11 @@
+# Download Thunderbird
 
+You should find Thunderbird on their main web page, [here](https://www.thunderbird.net/)
+There is a "Download" button which should provide you with the right version for your system configuration. You simply need to click on it.
+
+If it were not working as intended, please go to [this page](https://www.thunderbird.net/en-US/thunderbird/all/) where you should be presented with a choice of various versions for a number of systems.
+
+# Install Thunderbird
+
+In most cases, it's straightforward and should not generate any trouble.
+Some specific issues are dealt with on [this part](https://support.mozilla.org/en-US/products/thunderbird/install-migrate-and-update) of the official documentation.
