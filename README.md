@@ -18,6 +18,6 @@ Regading the tools or solutions that will be documented, the primary choice will
 
 # Map of Contents
 
-1. An email client wiht strong cryptograhy capabilities : [Thunderbird](./Thunderbird articles/index)
+1. An email client wiht strong cryptograhy capabilities : [Thunderbird](./Thunderbird\xA0articles/index)
 
 2. [Cybersecurity and Freelancing](https://attilacsontos.github.io/Test_3236_01/cybersecurity_and_freelancing)
