@@ -14,9 +14,11 @@ Some specific issues are dealt with on [this part](https://support.mozilla.org/e
 
 Navigate to the website of Thunderbird (https://www.thunderbird.net/) and click on the Free download button.
  
- ![](http://hdoc.csirt-tooling.org/uploads/upload_216b13edfac58fb5fb42651a886b700e.png)
+![](http://hdoc.csirt-tooling.org/uploads/upload_216b13edfac58fb5fb42651a886b700e.png)
+
 
 The process starts, and the below popup shows the progress of the process:
+
 ![](http://hdoc.csirt-tooling.org/uploads/upload_c8ab108f1cece441c7c8743ff0ae6a5b.png)
 
 In your Downloads folder, you should be able to see the package:
