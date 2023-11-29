@@ -58,7 +58,7 @@ Alternatively, double-click the chosen email to open it in a new tab.
 
 These two views (or sorting of emails) can influence the speed of your work significantly. 
 
-### Threaded View
+### 5.1. Threaded View
 
 Choose the option 'View – Sort by – Threaded' as can be seen in the below screenshot:
 
@@ -70,7 +70,7 @@ If you are using the threaded view, Thunderbird groups messages in a tree-like s
 
 Threading is useful for displaying your messages if you want to keep your messages grouped by conversation. This view can speed up your response time if you need to respond to a mail with many people replying to various conversation messages.
 
-### Unthreaded View
+### 5.2. Unthreaded View
 
 Choose the option 'View – Sort by – Unthreaded' as can be seen in the below screenshot:
 
@@ -100,7 +100,7 @@ The 'Create a New Calendar' wizard opens. Choose where you want to create your c
 
 ## 7.	Signatures
 
-### Plain-text signatures
+### 7.1. Plain-text signatures
 
 To create your signature in Thunderbird's Account Settings interface, click on your Inbox icon, then in the top right-hand corner, choose the 'Display the Thunderbird Menu' hamburger icon:
 
@@ -112,7 +112,7 @@ From the dropdown menu, click on 'Account Settings'. In the signature field, typ
 
 Plain text signatures work with messages formatted both in HTML and in text. 
 
-### HTML signatures
+### 7.2. HTML signatures
 
 To use HTML formatting in your signature, check 'Use HTML' and format the Signature text with the desired HTML markup.
 
@@ -120,7 +120,7 @@ To use HTML formatting in your signature, check 'Use HTML' and format the Signat
 
 Please note that if you have an HTML-formatted signature, the message recipient must be able to view HTML-formatted messages in their email program. If they have disabled this ability, the signature will be rendered in text format, and images will not be displayed.
 
-### Custom signatures
+### 7.3. Custom signatures
 
 You can also create custom signatures by uploading a file that contains your signature. Check the 'Attach the signature from a file instead' checkbox and click 'Choose...' to select the file. The file can contain either plain or HTML-formatted text.
 
