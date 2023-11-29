@@ -1,15 +1,5 @@
 # How to use email encryption in Thunderbird?
 
-This step-by-step guide shows how to set up email encryption in Thunderbird on a Windows operating system. If you are looking for an open-source email client that is feature-rich and provides easy-to-use end-to-end encryption, then Thunderbird can be an excellent choice.
-
-**Why encrypt emails?**
-
-Sending emails without encryption is like sending postcards to your loved ones: like it or not, anyone and any system that processes emails can intercept and then read its content. Encrypting your emails is like putting your message in an envelope that only the recipient of the email can open.
-
-For further reading on encryption, cryptography, types of cryptographic algorithms (like symmetric- and asymmetric encryption), digital signatures and related topics, please read the article  [Encryption: the unnoticed law enforcement force in cyberspace](https://www.cybersecurity.lu/tool/encryption-the-unnoticed-law-enforcement-force-in-cyberspace).
-
-## 1.	How to enable end-to-end encryption in Thunderbird?
-
 To use the OpenPGP feature (end-to-end encryption or E2EE), you must set up a public-private key pair for your email address in Thunderbird.
 
 Once your account has been created, Thunderbird offers you to enable end-to-end encryption. Still, you can make this step anytime you want. For security reasons, it is advised to do it as soon as possible. Please navigate to the lower left-hand corner of the screen and click on the gear icon (Settings).
