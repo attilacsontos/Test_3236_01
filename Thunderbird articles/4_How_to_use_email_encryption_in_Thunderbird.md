@@ -1,5 +1,7 @@
 # How to use email encryption in Thunderbird?
 
+## 1. Email ancryption in Thunderbird
+
 To use the OpenPGP feature (end-to-end encryption or E2EE), you must set up a public-private key pair for your email address in Thunderbird.
 
 Once your account has been created, Thunderbird offers you to enable end-to-end encryption. Still, you can make this step anytime you want. For security reasons, it is advised to do it as soon as possible. Please navigate to the lower left-hand corner of the screen and click on the gear icon (Settings).
