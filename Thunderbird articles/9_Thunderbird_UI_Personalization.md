@@ -16,7 +16,7 @@ Besides the ‘Light’or the default ‘Auto’ themes, you can also choose the
 
 In case you want to use a different theme, use the search bar in the top right-hand corner of the screen, and so you can search among thousands of themes on https://addons.thunderbird.net/ : 
 
-![](http://hdoc.csirt-tooling.org/uploads/upload_fa64ae452a28c29c277f329e908491e9.png)
+![](http://hdoc.csirt-tooling.org/uploads/upload_9ea461dd26d2bdc8094db4ba630ad44e.png)
 
 I typed 'blue' in the search bar and got 153 matching results for that term:
 
