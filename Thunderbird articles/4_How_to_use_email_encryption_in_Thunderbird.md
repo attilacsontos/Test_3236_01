@@ -170,11 +170,11 @@ From now on, you can continue sending and receiving encrypted messages with your
 
 Go to a key server (for example, https://keys.openpgp.org/ ) and choose the link ’upload’.
 
-![](http://hdoc.csirt-tooling.org/uploads/upload_83bea899873fb459c18402ae008fa403.png)
+![](http://hdoc.csirt-tooling.org/uploads/upload_5bbbcd970e15c74ce77015a82c26b50d.png)
 
 As the next step, click on ’Choose File’ and click on the ’Upload’ button on the right.
 
-![](http://hdoc.csirt-tooling.org/uploads/upload_aeaf80ed0f176daaab6642839cadfcad.png)
+![](http://hdoc.csirt-tooling.org/uploads/upload_eedd0a500f03cc63a04642428fd8ce13.png)
 
 If the upload process is successful, you receive a similar message as the one below:
 
